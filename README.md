@@ -1,6 +1,5 @@
 adamxp12.github.io
 ==================
-My github page
-I cheated and used a template
+My very own GitHub page
 
-http://themes.3rdwavemedia.com/website-templates/free-responsive-website-template-for-developers/
+This was made with a template from http://html5up.net/
