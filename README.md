@@ -2,4 +2,5 @@ adamxp12.github.io
 ==================
 My very own GitHub page
 
-This was made with a template from http://html5up.net/
+Made with Foundaton 6 (Not as good as 5 :( )
+Sublime text 2 was also used
